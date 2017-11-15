@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CGameSystem.cpp" />
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="CIntro.cpp" />
     <ClCompile Include="map.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CGameSystem.h" />
     <ClInclude Include="Character.h" />
     <ClInclude Include="CIntro.h" />
     <ClInclude Include="define.h" />
