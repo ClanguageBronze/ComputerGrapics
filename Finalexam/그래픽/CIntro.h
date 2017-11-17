@@ -10,6 +10,4 @@ public:
 	void Update();
 	void Render();
 	void Reshape(int, int);
-	void Getkey(const unsigned char, const int, const int);
-	void MouseMove(const int, const int);
 };
